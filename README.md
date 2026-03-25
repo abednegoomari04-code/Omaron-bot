@@ -1,2 +1,2 @@
-# Omaron-bot
-My WhatsApp bot
+# Omari-bot
+WhatsApp bot
